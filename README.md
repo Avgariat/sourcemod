@@ -1,0 +1,2 @@
+# sourcemod
+Some sourcemod plugins
