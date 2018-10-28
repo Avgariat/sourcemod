@@ -1,2 +1,1 @@
-# sourcemod
-Some sourcemod plugins
+# Sourcemod plugins
